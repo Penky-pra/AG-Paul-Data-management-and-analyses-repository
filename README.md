@@ -14,7 +14,7 @@ We employ R language along with Python scripts under MIT Liecence as the markup 
 The basis of the repo is constructed under the Database structure oif Redcap, providing a screenshot to get a aspect of the database
 
 
-*The strings or strings of code need to be launched can only be performed with API tokens, provided by the Database management team*
+*The strings or strings of code need to be launched, can only be performed with API tokens, provided by the Database management team*
 
 ![Project Demo](demo.gif)  <!-- You can embed images, GIFs, or even videos here to showcase your project -->
 
