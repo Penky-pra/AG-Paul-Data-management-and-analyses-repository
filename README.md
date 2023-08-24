@@ -8,7 +8,7 @@ This is where the AG Paul data management plan (DMP's) and scripts based on Redc
 The European Commission emphasises the necessity of making the DMP machine-actionable in order to be incorporated into a FAIR data ecosystem as a centre of knowledge on FAIR digital objects. The scripts along with DMP's should be a live document. By making them available to both humans and machines, the objective is to make it accessible to all stakeholders (repository operators, funders, researchers, publishers, infrastructure providers, etc.).
 
 The resources listed below can help you get started. The DMP folder contains the DMP's original outline along with bloated and complete scripts to Redcap database and datastructure, along with import and export strings for each cohorts under the Redcap database.
-(*export and flirtering data, data cleaning)
+(*export and flirtering data, data cleaning*)
 
 We employ R language along with Python scripts under MIT Liecence as the markup language for the text. This is open for discussion.
 The basis of the repo is constructed under the Database structure oif Redcap, providing a screenshot to get a aspect of the database
