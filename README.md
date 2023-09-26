@@ -41,13 +41,6 @@ List the key features of your project. This could be a bullet-point list or a br
 - Feature 2: Description of feature 2.
 - ...
 
-## Usage
-
-# Example command 1
-$ your-command-here arg1 arg2
-
-# Example command 2
-$ another-command-here
 ## Installation
 
 Provide step-by-step instructions on how to install your project. This should include any prerequisites, dependencies, and the actual installation process. You can include code snippets or terminal commands.
