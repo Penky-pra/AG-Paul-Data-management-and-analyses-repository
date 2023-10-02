@@ -19,7 +19,6 @@ The basis of the repo is constructed under the Database structure oif Redcap, pr
 ![csm_redcap-logo-large_205a7c5438](https://github.com/Penky-pra/AG-Paul-Data-management-and-analyses-repository/assets/57321277/84b281c4-698b-45bf-8dde-90a87d6c95f3)
 
 ![Project Demo](demo.gif)  <!-- You can embed images, GIFs, or even videos here to showcase your project -->
-
 ## Table of Contents
 
 - [About](#about)
