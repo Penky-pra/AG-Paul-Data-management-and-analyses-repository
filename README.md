@@ -40,6 +40,12 @@ List the key features of your project. This could be a bullet-point list or a br
 - Feature 1: Description of feature 1.
 - Feature 2: Description of feature 2.
 - ...
+## Usage
+Needed to be specified
+
+
+## README: 
+THE repo information
 
 ## Installation
 
@@ -47,6 +53,7 @@ Provide step-by-step instructions on how to install your project. This should in
 
 ```bash
 git clone https://github.com/your-username/your-project.git
+
 cd your-project
 npm install  # or any other installation command
 
