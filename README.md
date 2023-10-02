@@ -24,7 +24,7 @@ The basis of the repo is constructed under the Database structure oif Redcap, pr
 - [About](#about)
 - [Features](#features)
 - [Usage](#usage)
-- [Installation](#installation)
+- [Manuelle](#Manuelle)
 - [Contributing](#contributing)
 - [License](#license)
 - [README:](#tootherrepos)
@@ -47,14 +47,10 @@ Needed to be specified
 ## README: 
 THE repo information
 
-## Installation
+## Manuelle
 
-Provide step-by-step instructions on how to install your project. This should include any prerequisites, dependencies, and the actual installation process. You can include code snippets or terminal commands.
+Provide step-by-step instructions on how to work on Redcap database based projects. This should include any prerequisites, dependencies, and the actual working process. Including code snippets or terminal commands.
 
-```bash
-git clone https://github.com/your-username/your-project.git
 
-cd your-project
-npm install  # or any other installation command
 
 
