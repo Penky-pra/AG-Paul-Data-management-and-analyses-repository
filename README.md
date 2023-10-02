@@ -15,8 +15,12 @@ We employ R language along with Python scripts under MIT Liecence as the markup 
 The basis of the repo is constructed under the Database structure oif Redcap, providing a screenshot to get a aspect of the database
 
 
-*The strings or strings of code need to be launched, can only be performed with API tokens, provided by the Database management team*
-![csm_redcap-logo-large_205a7c5438](https://github.com/Penky-pra/AG-Paul-Data-management-and-analyses-repository/assets/57321277/be00e4d6-9c05-4482-b429-e626468ec5d7)
+*The strings or strings of code need to be launched, can only be performed with API tokens, provided by the Database management team*,
+
+
+
+![csm_redcap-logo-large_205a7c5438](https://github.com/Penky-pra/AG-Paul-Data-management-and-analyses-repository/assets/57321277/4c48c43a-0cef-44c3-825c-308f23a3ee5d)
+
 
 
 ![Project Demo](demo.gif)  <!-- You can embed images, GIFs, or even videos here to showcase your project -->
