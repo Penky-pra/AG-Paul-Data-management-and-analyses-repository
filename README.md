@@ -30,8 +30,6 @@ The basis of the repo is constructed under the Database structure oif Redcap, pr
 - [Features](#features)
 - [Usage](#usage)
 - [License](#license)
-- [README:](#tootherrepos)
-- [Manuelle](#Manuelle)
 
 ## About
 
@@ -48,12 +46,6 @@ List the key features of your project. This could be a bullet-point list or a br
 Needed to be specified
 
 
-## README: 
-THE repo information
-
-## Manuelle
-
-Provide step-by-step instructions on how to work on Redcap database based projects. This should include any prerequisites, dependencies, and the actual working process. Including code snippets or terminal commands.
 
 
 
